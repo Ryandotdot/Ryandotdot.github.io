@@ -1,4 +1,4 @@
-baseURL = 'https://ryandotdot.github.io'
+baseURL = 'https://ryandotdot.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site2'
 publishDir = "docs"
